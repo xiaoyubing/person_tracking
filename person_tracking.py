@@ -22,7 +22,7 @@ def main():
     """
 
     # Create opencv video capture object
-    cap = cv2.VideoCapture('10.avi')
+    cap = cv2.VideoCapture('test_video/1.mp4')
 
     # Create Object Detector
     detector = Detectors()
