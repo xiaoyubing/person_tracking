@@ -1,4 +1,4 @@
-Multi Object Tracker Using Kalman Filter & Hungarian Algorithm
+使用卡尔曼滤波和匈牙利算法进行的多人跟踪
 ----
 - Author: xiaoyubin 
 - Project: 人体跟踪
@@ -6,14 +6,10 @@ Multi Object Tracker Using Kalman Filter & Hungarian Algorithm
 
 
 - Usage:  
-$ python3.5 objectTracking.py  
+$ python3.5 personTracking.py  
 
 - Pre-requisite:  
     - Python3.5  
     - Numpy  
     - SciPy  
     - Opencv 3.4.4 for Python
-    
-- References:    
-  - [Excellent MATLAB tutorial by Student Dave on object tracking](http://studentdavestutorials.weebly.com/multi-bugobject-tracking.html)   
-  - [OpenCV Tutorial: Multiple Object Tracking in Real Time by Kyle Hounslow](https://www.youtube.com/watch?annotation_id=annotation_307976421&feature=iv&src_vid=RS_uQGOQIdg&v=bSeFrPrqZ2A)  
