@@ -14,6 +14,7 @@
 
 ## Quick Start:  
 $ python3 personTracking.py  
+$ python3 person_tracking_yolo_v3.py --conf 0.5 --video ./3.mp4 
 
 - Pre-requisite:  
     - torch 0.4.0
