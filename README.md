@@ -1,4 +1,5 @@
 使用卡尔曼滤波和匈牙利算法进行的多人跟踪
+Multiple Person Tracking by Kalman Filter
 ----
 - Author: xiaoyubin 
 - Project: 人体跟踪
